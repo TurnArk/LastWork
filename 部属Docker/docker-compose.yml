@@ -1,0 +1,53 @@
+version: '3'
+services:
+        frontend:
+                build:
+                    context: ./frontend
+                ports:
+                    - "5173:80"
+                networks:
+                    - lastwork_mynetwork 
+                depends_on:
+                    - backend
+
+                 
+        backend:
+                build:
+                    context: ./backend
+                ports:
+                    - "7078:7078"
+                networks:
+                    - lastwork_mynetwork
+                environment:
+                    - DB_HOST=mysql  # 数据库服务名（容器名），Docker Compose 会解析为数据库容器的 IP 地址
+                    - DB_PORT=3306  # MySQL 默认端口
+                    - DB_NAME=duel_person  # 数据库名
+                    - DB_USER=docker_web  # 数据库用户名
+                    - DB_PASSWORD=123456  # 数据库密码
+                    - CORS_ALLOWED_ORIGINS=http://localhost:5173 
+                volumes:
+                    - backend-data:/app/data
+                depends_on:
+                    - mysql
+
+        mysql:
+                image: mysql:8
+                environment:
+                    MYSQL_ROOT_PASSWORD: 123456
+                    MYSQL_DATABASE: duel_person
+                volumes:
+                    - mysql-data:/var/lib/mysql
+                networks:
+                    - lastwork_mynetwork
+
+
+networks:
+        lastwork_mynetwork:
+                driver: bridge
+                external: true
+
+volumes:
+    backend-data:
+    mysql-data:
+
+
