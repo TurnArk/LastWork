@@ -1,0 +1,62 @@
+0,鸡蛋,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,人里供应的鸡蛋，较为常见。,4,{"truly": ["生"], "falsely": []}
+1,猪肉,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,人里圈养的家猪肉，较为常见。,10,{"truly": ["肉"], "falsely": []}
+2,牛肉,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,人里圈养的肉牛肉，较为常见。,15,{"truly": ["肉"], "falsely": []}
+3,鹿肉,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,猎人们在山间猎回来的鹿肉，有点儿珍贵。,20,{"truly": ["肉"], "falsely": []}
+4,野猪肉,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,猎人们在山间猎回来的野猪肉，充满野性。,25,{"truly": ["肉"], "falsely": []}
+5,豆腐,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,人里有卖的豆腐，较为常见。,8,{"truly": ["素", "家常", "清淡"], "falsely": []}
+6,土豆,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,随处可见的那种普通土豆。,10,{"truly": ["素", "家常"], "falsely": []}
+7,洋葱,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,人里农田产的洋葱，较为常见。,12,{"truly": ["素", "鲜"], "falsely": []}
+8,南瓜,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,人里农田产的南瓜，较为常见。,14,{"truly": ["素", "饱腹"], "falsely": []}
+9,萝卜,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,人里农田产的萝卜，较为常见。,16,{"truly": ["素", "下酒"], "falsely": []}
+10,海苔,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,不知道从哪里流入的外来食材，较为常见。,3,{"truly": ["素", "鲜"], "falsely": []}
+11,鳟鱼,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,栖息于淡水中的冷水鱼，较为常见。,8,{"truly": ["水产", "鲜"], "falsely": []}
+12,八目鳗,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,一种洄游性海鱼，但却在幻想乡的河流湖泊随处可见。,14,{"truly": ["水产", "鲜", "招牌"], "falsely": []}
+13,三文鱼,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,一种高度洄游海鱼，但在幻想乡的河流湖泊可见。有点儿珍贵。,24,{"truly": ["水产", "高级", "鲜"], "falsely": []}
+14,金枪鱼,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,一种大洋性洄游海鱼，但在幻想乡的河流湖泊可见。有点儿珍贵。,30,{"truly": ["水产", "高级", "鲜"], "falsely": []}
+15,黑毛猪肉,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,在高海拔深山中圈养的黑毛猪肉，非常高级。,35,{"truly": ["肉", "传说", "山珍"], "falsely": []}
+16,和牛,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,传闻是超优质的肉牛品种，又称雪花肉，非常高级。,40,{"truly": ["肉", "高级", "传说"], "falsely": []}
+17,蘑菇,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,从魔法森林采回来的品相良好的蘑菇，无法人工种植，非常珍贵。,18,{"truly": ["素", "鲜", "菌类"], "falsely": []}
+18,松露,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,从魔法森林采回来的品相良好的松露，无法人工种植，非常珍贵。,50,{"truly": ["素", "高级", "传说", "山珍", "鲜", "菌类"], "falsely": []}
+19,极上金枪鱼,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,金枪鱼中的顶级品种，非常珍贵。,34,{"truly": ["水产", "高级", "传说", "海味", "鲜"], "falsely": []}
+20,河豚,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,高级水产品，但体内含毒素，需小心处理。,42,{"truly": ["水产", "海味", "鲜"], "falsely": []}
+21,桃子,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,桃子树的果实，较为常见。,10,{"truly": ["甜", "果味"], "falsely": []}
+22,白果,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,白果树的果实，较为常见。,7,{"truly": ["适合拍照"], "falsely": []}
+23,虾,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,分布在雾之湖和玄武泽的淡水虾，较为常见。,30,{"truly": ["水产", "鲜"], "falsely": []}
+24,蜂蜜,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,能从树上蜂巢采到的野生蜂蜜，较为常见。,15,{"truly": ["甜"], "falsely": []}
+25,蝉蜕,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,在树干上常常可以采集的昆虫外壳，较为常见。,5,{"truly": ["猎奇"], "falsely": []}
+26,幻昙华,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,生长在沼泽中的奇迹之花，非常珍贵。,70,{"truly": ["高级", "传说", "不可思议", "梦幻"], "falsely": []}
+27,露水,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,清晨采回来的露水，有点儿珍贵。,10,{"truly": ["清淡"], "falsely": []}
+28,竹笋,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,从野外采回来的竹笋，较为常见。,40,{"truly": ["素", "清淡"], "falsely": []}
+29,黄油,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,西餐常用的食材，可以轻松地给食物增加难以抗拒的香味。,8,{"truly": ["重油"], "falsely": []}
+30,面粉,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,有多种用途，较为常见。,10,{"truly": ["饱腹"], "falsely": []}
+31,竹子,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,鲜翠欲滴的迷途竹林鲜切竹子，散发着清冽的竹香。,15,{"truly": ["适合拍照"], "falsely": []}
+32,糯米,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,很有粘性的米。制作出来的料理或绵软适口，或鲜嫩弹牙。,15,{"truly": [], "falsely": []}
+33,月光草,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,永远亭的特产，由满月之夜的月光凝聚，非常珍贵。,70,{"truly": ["清淡", "文化底蕴", "不可思议", "梦幻"], "falsely": []}
+34,冰块,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,水的固体形态，帮助食材保温，晶莹剔透。,2,{"truly": ["凉爽"], "falsely": []}
+35,辣椒,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,用于增加辣味的食材，评价非常两极。,2,{"truly": ["辣"], "falsely": []}
+36,葡萄,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,在红魔馆种植的用于酿酒的葡萄。,5,{"truly": ["甜", "果味"], "falsely": []}
+1000,黄瓜,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,河童的嗜好物。虽然用来做菜和普通蔬菜没有区别，但却能让河童无比上瘾。究竟是其中的什么成分在起作用。,7,{"truly": ["素", "家常", "清淡"], "falsely": []}
+1001,章鱼,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,鲜嫩可爱的海洋生物，但幻想乡没有海…它的脚是宝贝，有压倒性的肉质感，而且只要用最简单的火烤，就能享受弹牙的美味！,12,{"truly": ["水产", "海味", "鲜"], "falsely": []}
+1002,海胆,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,据说在外界被称作传说级的食材，只要一小颗就能让人感受到整个海洋的美味，会是真的吗？样子长得倒是挺奇怪的。,18,{"truly": ["水产", "高级", "传说", "海味", "鲜"], "falsely": []}
+1003,黑盐,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,火山能量，累积上千万年；只为净化，你灵魂的尘埃…广告词这样写着，其实就是普通的火山岩盐。,3,{"truly": ["咸"], "falsely": []}
+1004,奶油,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,用非常特殊的方法处理的奶制品，无论什么时候都能秒杀甜食嗜好者的味蕾！,9,{"truly": ["家常", "西式", "甜"], "falsely": []}
+1005,螃蟹,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,以为有了盔甲就可以横行霸道的八脚笨蛋，只需最简单的清蒸就能成为究极美味！不过要小心它的钳子。,10,{"truly": ["水产", "高级", "鲜"], "falsely": []}
+2000,并蒂莲,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,根茎生长在桥的附近，花朵成熟后会破水而出，淡红色并有淡香味。高级食材，也是地底人的节日装饰。,36,{"truly": ["高级", "传说", "清淡", "文化底蕴", "梦幻"], "falsely": []}
+2001,柠檬,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,仅在桥附近特别的树上产出的奇怪果实，据说没有人能够无表情板着脸吃完一整颗，有着强大的“酸”味，只能取其果汁来调味。,8,{"truly": ["果味", "酸"], "falsely": []}
+2002,芝士,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,浓郁的奶油熟成后的珍贵食材，取一片加热融化就能让料理变得奶香浓郁，美味十足。,18,{"truly": ["高级", "咸", "鲜"], "falsely": []}
+3000,莲子,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,非常古老的水生植物——莲的种子。莲子的芯很苦，千万得处理好，别混到料理给客人吃了。,22,{"truly": ["清淡", "招牌", "文化底蕴"], "falsely": []}
+3001,地瓜,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,世上最实在的食材！不仅香甜软糯，而且能强效地应对饥饿，在冬天还有暖手的效果。,8,{"truly": ["饱腹"], "falsely": []}
+3002,松子,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,红松树的种子。据说在外界已经被列为濒危物种，但在幻想乡仍然很常见。传说松子有延年益寿的功能，是古代道士辟谷时的常备之物。,15,{"truly": ["高级", "清淡", "招牌"], "falsely": []}
+3003,板栗,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,相传道教创始人修炼时，由于不爱荤腥，便栽了许多板栗树，以栗代饭。栗子种仁肥厚，营养丰富，不仅受到许多道教人士的推崇，也经常被农民用来代替粮食。,10,{"truly": ["素", "家常"], "falsely": []}
+4000,梅子,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,果梅树结的果实，可以盐渍或干制。做成梅干后有种咸中带酸的特殊口感，能够大大激起食欲，且品尝后唇齿留甘，让人回味无穷。,12,{"truly": ["咸", "小巧"], "falsely": []}
+4001,红豆,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,又称赤豆，是适应能力较强的草本植物，食用能够起到增强自身免疫力和抗病能力的效果。古代人觉得中风得病都是疫鬼作祟，所以有“赤豆打鬼”的传说。,18,{"truly": ["家常"], "falsely": []}
+4002,鲜花,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,一朵朵绚丽烂漫的鲜花扎成的花束。花儿们以生命为代价也要完成的事，必须要对此付出敬意！,45,{"truly": ["适合拍照", "梦幻"], "falsely": []}
+4003,香椿,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,一种常见的野菜。具有一定的毒性，不建议过量食用，并且食用前须焯水烹饪。,20,{"truly": ["素", "毒"], "falsely": []}
+4004,西红柿,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,颜色鲜艳的浆果，曾经还因为太鲜艳被视为“狐狸的果实”，觉得它具有剧毒，所以只用来观赏。在发现可以食用以后就开始大面积种植了。,8,{"truly": ["素"], "falsely": []}
+5000,可可豆,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,可可树的果实。据说在不同地区有不同的风味，有的会带点儿果香，有的带有烟熏的风味。可以磨成粉食用，是制作巧克力的基本原料。,22,{"truly": ["甜", "不可思议"], "falsely": []}
+5001,西兰花,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,魔界土壤培育出来的西蓝花。因为光照不足植株徒长，花球颜色和地上也略微有些不同。,18,{"truly": ["素", "家常"], "falsely": []}
+5002,噗噗哟果,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,魔界里到处可见的怪异果子。似乎会根据食用者的类型产生不同的食用效果，十分奇特。,10,{"truly": ["天罚"], "falsely": []}
+5003,薜茘,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,一种药食两用植物。将薜荔籽浸泡后搓汁，冷藏后会凝固成晶莹剔透的胶状物，可以用来制作果冻和凉粉等，是消暑神品。,21,{"truly": ["凉爽", "梦幻"], "falsely": []}
+5004,银耳,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,一种像花儿一样美丽的菌类。据说历代皇家贵族把银耳看作延年益寿之品，但在月都似乎很常见。这种看起来一尘不染的洁白，和月都的感觉很相衬。,14,{"truly": ["清淡", "菌类"], "falsely": []}
+5005,强效辣椒素,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,使用了月之科技制作的极·辣品，能让食用者留下恐怖的回忆。是不是真的用辣椒做的就说不清了。,0,{"truly": ["天罚"], "falsely": []}
+-1,铃仙,https://assistant-public.izakaya.cc/assets/sprites/ingredient.webp,我是谁？？？我在哪？？？我为什么会在这里？？？,530000,{"truly": ["招牌", "适合拍照", "不可思议", "特产"], "falsely": []}
