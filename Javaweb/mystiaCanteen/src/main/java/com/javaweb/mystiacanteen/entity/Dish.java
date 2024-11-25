@@ -1,8 +1,8 @@
 package com.javaweb.mystiacanteen.entity;
 
+import com.fasterxml.jackson.databind.JsonNode;
 import lombok.Data;
 
-import java.util.List;
 
 @Data
 public class Dish {
@@ -11,5 +11,6 @@ public class Dish {
     private String description;//菜的描述
     private Integer price;//菜价
     private String image;//菜品图片
-    private List<String> tags;//菜品标签
+    private JsonNode tags;//菜品标签
+    private String position;//图片位置
 }
