@@ -1,14 +1,13 @@
 package com.javaweb.mystiacanteen.entity;
 
-import com.fasterxml.jackson.databind.JsonNode;
 import lombok.Data;
 
 @Data
 public class User {
-    private Integer username;
+    private String username;
     private String password;
     private String name;
     private String gender;
+    private String email;
     private Integer deposit;
-    private JsonNode cart;
 }

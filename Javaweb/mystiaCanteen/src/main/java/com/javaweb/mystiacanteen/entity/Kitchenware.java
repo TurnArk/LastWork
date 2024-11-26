@@ -3,7 +3,7 @@ package com.javaweb.mystiacanteen.entity;
 import lombok.Data;
 
 @Data
-public class Kitchenware {
+public class Kitchenware extends Production{
     private Integer id;//ID
     private String name;//厨具名
     private String description;//厨具描述

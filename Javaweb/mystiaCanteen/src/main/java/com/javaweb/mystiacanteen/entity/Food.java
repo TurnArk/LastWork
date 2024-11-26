@@ -5,7 +5,7 @@ import lombok.Data;
 
 
 @Data
-public class Food {
+public class Food extends Production{
     private Integer id;//ID
     private String name;//食材名
     private String description;//食材描述
