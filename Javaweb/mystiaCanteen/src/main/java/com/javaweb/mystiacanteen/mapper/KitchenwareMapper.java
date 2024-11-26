@@ -1,7 +1,6 @@
 package com.javaweb.mystiacanteen.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.javaweb.mystiacanteen.entity.Dish;
 import com.javaweb.mystiacanteen.entity.Kitchenware;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
@@ -17,5 +16,5 @@ public interface KitchenwareMapper extends BaseMapper<Kitchenware> {
     List<Kitchenware> getKitchenwareByName(String name);
 
     @Select("SELECT * FROM Kitchenware WHERE name = #{name}")
-    Dish selectKitchenwareByName(String name);
+    Kitchenware selectKitchenwareByName(String name);//专供购物车功能用的
 }

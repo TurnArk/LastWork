@@ -16,5 +16,5 @@ public interface DishMapper extends BaseMapper<Dish> {
     List<Dish> getDishByName(String name);
 
     @Select("SELECT * FROM dish WHERE name = #{name}")
-    Dish selectDishByName(String name);
+    Dish selectDishByName(String name);//专供购物车功能用的
 }
